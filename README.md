@@ -51,7 +51,5 @@ to enter the site.
 
 ##Changelog
 
-###0.1.1
-Fix Improper use of defines
 ###0.1.0
 As this is the first version, there is not much to say.
