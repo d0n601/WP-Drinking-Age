@@ -1,13 +1,15 @@
 
 #WP Drinking Age
 [![WordPress](https://img.shields.io/wordpress/v/akismet.svg)](https://wordpress.org/download/)
- [![version](https://img.shields.io/badge/stable-v0.1.0-4A8F80.svg)]()
+ [![version](https://img.shields.io/badge/stable-v0.1.0-4A8F80.svg)](https://wordpress.org/plugins/wp-drinking-age/)
  [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
  
 
 ##Description
 This plugin implements a drinking age gateway to your site. Users will be required to verify their date of birth before viewing content on the site. It's intended for sites related
 to alcohol. WP Drinking Age uses data from [ProCon.org](http://drinkingage.procon.org/view.resource.php?resourceID=004294) to verify a users are of legal age for their region.
+
+[WP Drinking Age](https://wordpress.org/plugins/wp-drinking-age/) can also be found on the Wordpress Plugins Directory.
 
 
 ###Main Features
