@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: ryankozak
 Tags: drinking age, age gateway, gateway, drinking age gateway, age restriction, age verification, age verification gateway, age restriction gateway, javascript gateway, jquery gateway , user experience, wp-admin, admin
-Tested up to: 4.6.1
+Tested up to: 4.7.0
 Stable tag: 0.1.0
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
